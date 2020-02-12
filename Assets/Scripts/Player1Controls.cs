@@ -8,8 +8,8 @@ public class Player1Controls : MonoBehaviour
 public int playerNumber;
 public float movementSpeed;
 public Animator animator;
-
 SpriteRenderer spriteRendererCmp;
+public GameObject fireBall;
 
     // Start is called before the first frame update
     void Start()
@@ -25,11 +25,39 @@ SpriteRenderer spriteRendererCmp;
         movementVector.y = Input.GetAxis("Vertical"+playerNumber) * movementSpeed;
         Vector3 velocity = movementVector * movementSpeed;
         
-        SetFaceDirection(movementVector.x);
+        // SetFaceDirection(movementVector.x);
 
         SetIsMoving(velocity);
 
         transform.position += velocity;
+
+        float aimAngle = getAimAngle();
+
+        if (Input.GetAxis("Fire"+playerNumber) != 0)
+        {
+            Debug.Log("FIRE");
+            GetComponent<CinderMoves>().castKindle(transform.position , aimAngle);
+        }
+    }
+
+    float getAimAngle()
+    {
+         // Creates an angle from the axes.
+            Vector2 aimVector;
+            aimVector.x = Input.GetAxis("HorizontalTurn"+playerNumber);
+            aimVector.y = Input.GetAxis("VerticalTurn"+playerNumber);
+            aimVector.Normalize();
+            Debug.Log(aimVector);
+            float aimAngle = (Mathf.Atan2(aimVector.x, aimVector.y) * 180 / Mathf.PI);
+
+            Debug.Log(aimAngle);
+            return aimAngle;
+            // transform.eulerAngles = new Vector3 (0f, 0f, 90 - aimAngle);
+
+            // GameObject ball = Instantiate(fireBall, transform.position, Quaternion.identity) as GameObject;
+            // ball.GetComponent<CinderKindle>().SetOwner(this.gameObject);
+
+            // nextCooldown = Time.time + cooldownTime;
     }
 
     // Determines if the player is moving for the sprite animation transition

@@ -1,0 +1,2402 @@
+fileFormatVersion: 2
+guid: 9d5a0ede99ed86641ab9de193a12d0e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3636900024169929489
+    second: 16_sunburn_spritesheet_0
+  - first:
+      213: -7801025535723522783
+    second: 16_sunburn_spritesheet_1
+  - first:
+      213: 929992761325742028
+    second: 16_sunburn_spritesheet_2
+  - first:
+      213: -5407246234350717664
+    second: 16_sunburn_spritesheet_3
+  - first:
+      213: -2654148419914707379
+    second: 16_sunburn_spritesheet_4
+  - first:
+      213: -2228744589622232453
+    second: 16_sunburn_spritesheet_5
+  - first:
+      213: 6263272190325439682
+    second: 16_sunburn_spritesheet_6
+  - first:
+      213: 3735753296659679372
+    second: 16_sunburn_spritesheet_7
+  - first:
+      213: -8310453132643485235
+    second: 16_sunburn_spritesheet_8
+  - first:
+      213: 1407436812790957083
+    second: 16_sunburn_spritesheet_9
+  - first:
+      213: 5753855330253882085
+    second: 16_sunburn_spritesheet_1
+  - first:
+      213: 1765943271687648794
+    second: 16_sunburn_spritesheet_11
+  - first:
+      213: 4039554951370867815
+    second: 16_sunburn_spritesheet_12
+  - first:
+      213: -5573781941526240469
+    second: 16_sunburn_spritesheet_13
+  - first:
+      213: 3438489358563515437
+    second: 16_sunburn_spritesheet_14
+  - first:
+      213: 983870750753396577
+    second: 16_sunburn_spritesheet_15
+  - first:
+      213: 6265798283278840764
+    second: 16_sunburn_spritesheet_16
+  - first:
+      213: 4764206203490849985
+    second: 16_sunburn_spritesheet_17
+  - first:
+      213: 6750589935680655065
+    second: 16_sunburn_spritesheet_18
+  - first:
+      213: 2819493221355987182
+    second: 16_sunburn_spritesheet_19
+  - first:
+      213: -1577169843732162904
+    second: 16_sunburn_spritesheet_20
+  - first:
+      213: 559096768429298963
+    second: 16_sunburn_spritesheet_21
+  - first:
+      213: 7423359587126464373
+    second: 16_sunburn_spritesheet_22
+  - first:
+      213: -3869532909192072933
+    second: 16_sunburn_spritesheet_23
+  - first:
+      213: -4792485684000035400
+    second: 16_sunburn_spritesheet_24
+  - first:
+      213: -2391277357771098244
+    second: 16_sunburn_spritesheet_25
+  - first:
+      213: 6723216669409562616
+    second: 16_sunburn_spritesheet_26
+  - first:
+      213: -3408238494602770409
+    second: 16_sunburn_spritesheet_27
+  - first:
+      213: -8270095943488192715
+    second: 16_sunburn_spritesheet_28
+  - first:
+      213: 6218723282806394756
+    second: 16_sunburn_spritesheet_29
+  - first:
+      213: -1391013807117551562
+    second: 16_sunburn_spritesheet_30
+  - first:
+      213: -1313062158316945709
+    second: 16_sunburn_spritesheet_31
+  - first:
+      213: -3370238458506574945
+    second: 16_sunburn_spritesheet_32
+  - first:
+      213: -3405891168391227487
+    second: 16_sunburn_spritesheet_33
+  - first:
+      213: 2874648784610909869
+    second: 16_sunburn_spritesheet_34
+  - first:
+      213: 2766919344764068492
+    second: 16_sunburn_spritesheet_35
+  - first:
+      213: -7604481204068681643
+    second: 16_sunburn_spritesheet_36
+  - first:
+      213: 8126642164633690539
+    second: 16_sunburn_spritesheet_37
+  - first:
+      213: 5052514067925562059
+    second: 16_sunburn_spritesheet_38
+  - first:
+      213: 73900944802438821
+    second: 16_sunburn_spritesheet_39
+  - first:
+      213: 1292860156061241575
+    second: 16_sunburn_spritesheet_40
+  - first:
+      213: -1644502719512115600
+    second: 16_sunburn_spritesheet_41
+  - first:
+      213: -7476304437819375453
+    second: 16_sunburn_spritesheet_42
+  - first:
+      213: 9020376077729300850
+    second: 16_sunburn_spritesheet_43
+  - first:
+      213: 2067425699724449576
+    second: 16_sunburn_spritesheet_44
+  - first:
+      213: -7571716408800103154
+    second: 16_sunburn_spritesheet_45
+  - first:
+      213: 2688385840614490287
+    second: 16_sunburn_spritesheet_46
+  - first:
+      213: -5682584017595173380
+    second: 16_sunburn_spritesheet_47
+  - first:
+      213: -3161001389483830168
+    second: 16_sunburn_spritesheet_48
+  - first:
+      213: -2830149530689499704
+    second: 16_sunburn_spritesheet_49
+  - first:
+      213: 1812935776265886121
+    second: 16_sunburn_spritesheet_50
+  - first:
+      213: -2754520757361000975
+    second: 16_sunburn_spritesheet_51
+  - first:
+      213: 4652196723891069569
+    second: 16_sunburn_spritesheet_52
+  - first:
+      213: -9189960473933038795
+    second: 16_sunburn_spritesheet_53
+  - first:
+      213: -2497154201582160551
+    second: 16_sunburn_spritesheet_54
+  - first:
+      213: 7326562647693624400
+    second: 16_sunburn_spritesheet_55
+  - first:
+      213: 2911505540911931282
+    second: 16_sunburn_spritesheet_56
+  - first:
+      213: -690644721177463751
+    second: 16_sunburn_spritesheet_57
+  - first:
+      213: 8838842382013582482
+    second: 16_sunburn_spritesheet_58
+  - first:
+      213: 5307238274938574227
+    second: 16_sunburn_spritesheet_59
+  - first:
+      213: -5388409771315575166
+    second: 16_sunburn_spritesheet_60
+  - first:
+      213: -1939731801919907751
+    second: 16_sunburn_spritesheet_61
+  - first:
+      213: -1296328224665941259
+    second: 16_sunburn_spritesheet_62
+  - first:
+      213: 6742614884126944806
+    second: 16_sunburn_spritesheet_63
+  - first:
+      213: -7824056663024893717
+    second: 16_sunburn_spritesheet_64
+  - first:
+      213: 6608104599246327652
+    second: 16_sunburn_spritesheet_65
+  - first:
+      213: 2396728865756858499
+    second: 16_sunburn_spritesheet_66
+  - first:
+      213: -8485301734355767788
+    second: 16_sunburn_spritesheet_67
+  - first:
+      213: 6854567886099486336
+    second: 16_sunburn_spritesheet_68
+  - first:
+      213: -6003871351195527141
+    second: 16_sunburn_spritesheet_69
+  - first:
+      213: -8622469113424142474
+    second: 16_sunburn_spritesheet_70
+  - first:
+      213: -5212098777798200760
+    second: 16_sunburn_spritesheet_71
+  - first:
+      213: 267999178560202338
+    second: 16_sunburn_spritesheet_72
+  - first:
+      213: 5507536236512175664
+    second: 16_sunburn_spritesheet_73
+  - first:
+      213: -7516796277561223481
+    second: 16_sunburn_spritesheet_74
+  - first:
+      213: -6937037990459609291
+    second: 16_sunburn_spritesheet_75
+  - first:
+      213: -3084344750162760958
+    second: 16_sunburn_spritesheet_76
+  - first:
+      213: -4199097133942946481
+    second: 16_sunburn_spritesheet_77
+  - first:
+      213: 6037115261556044818
+    second: 16_sunburn_spritesheet_78
+  - first:
+      213: 3194775282516148682
+    second: 16_sunburn_spritesheet_79
+  - first:
+      213: 5136394178849189928
+    second: 16_sunburn_spritesheet_80
+  - first:
+      213: 2962624279725612897
+    second: 16_sunburn_spritesheet_81
+  - first:
+      213: -7785903233113921601
+    second: 16_sunburn_spritesheet_82
+  - first:
+      213: 7784414662665530386
+    second: 16_sunburn_spritesheet_83
+  - first:
+      213: 6634960520714002538
+    second: 16_sunburn_spritesheet_84
+  - first:
+      213: -7441069889876976748
+    second: 16_sunburn_spritesheet_85
+  - first:
+      213: -5365395336538715058
+    second: 16_sunburn_spritesheet_86
+  - first:
+      213: -9085120908316256531
+    second: 16_sunburn_spritesheet_87
+  - first:
+      213: 2936518382140435207
+    second: 16_sunburn_spritesheet_88
+  - first:
+      213: 4947497772834690138
+    second: 16_sunburn_spritesheet_89
+  - first:
+      213: -7795985403138612414
+    second: 16_sunburn_spritesheet_90
+  - first:
+      213: 864634746575028505
+    second: 16_sunburn_spritesheet_91
+  - first:
+      213: -5187115065845274309
+    second: 16_sunburn_spritesheet_92
+  - first:
+      213: 6267563400358189919
+    second: 16_sunburn_spritesheet_93
+  - first:
+      213: -7119905673699068083
+    second: 16_sunburn_spritesheet_94
+  - first:
+      213: 8272210134289232247
+    second: 16_sunburn_spritesheet_95
+  - first:
+      213: 4710669441614807935
+    second: 16_sunburn_spritesheet_96
+  - first:
+      213: -4685056117186109294
+    second: 16_sunburn_spritesheet_97
+  - first:
+      213: -4555592341076027547
+    second: 16_sunburn_spritesheet_98
+  - first:
+      213: 7122390513307421563
+    second: 16_sunburn_spritesheet_99
+  - first:
+      213: 7280555355214811823
+    second: 16_sunburn_spritesheet_100
+  - first:
+      213: 1041420995571913652
+    second: 16_sunburn_spritesheet_101
+  - first:
+      213: 5919914747880048319
+    second: 16_sunburn_spritesheet_102
+  - first:
+      213: -4582035775714581316
+    second: 16_sunburn_spritesheet_103
+  - first:
+      213: 3865794577474999146
+    second: 16_sunburn_spritesheet_104
+  - first:
+      213: 5301787424992525304
+    second: 16_sunburn_spritesheet_105
+  - first:
+      213: 8254519511559638117
+    second: 16_sunburn_spritesheet_106
+  - first:
+      213: -5313590729360136580
+    second: 16_sunburn_spritesheet_107
+  - first:
+      213: -3136602180837472022
+    second: 16_sunburn_spritesheet_108
+  - first:
+      213: -5026945187936593376
+    second: 16_sunburn_spritesheet_109
+  - first:
+      213: 4828858460384670715
+    second: 16_sunburn_spritesheet_110
+  - first:
+      213: -1221072269900554435
+    second: 16_sunburn_spritesheet_111
+  - first:
+      213: 8298209131213916679
+    second: 16_sunburn_spritesheet_112
+  - first:
+      213: 1309078481131242428
+    second: 16_sunburn_spritesheet_113
+  - first:
+      213: -6429416634301258142
+    second: 16_sunburn_spritesheet_114
+  - first:
+      213: 470459018441084443
+    second: 16_sunburn_spritesheet_115
+  - first:
+      213: 1524995275793959333
+    second: 16_sunburn_spritesheet_116
+  - first:
+      213: -1683655614789743344
+    second: 16_sunburn_spritesheet_117
+  - first:
+      213: 4761221940338318687
+    second: 16_sunburn_spritesheet_118
+  - first:
+      213: 1996954323594154799
+    second: 16_sunburn_spritesheet_119
+  - first:
+      213: 7726484795589840744
+    second: 16_sunburn_spritesheet_120
+  - first:
+      213: 1268813654144173389
+    second: 16_sunburn_spritesheet_121
+  - first:
+      213: -5404911328751606967
+    second: 16_sunburn_spritesheet_122
+  - first:
+      213: 2092403580779257716
+    second: 16_sunburn_spritesheet_123
+  - first:
+      213: -6719384767404610116
+    second: 16_sunburn_spritesheet_124
+  - first:
+      213: -8357026384306125858
+    second: 16_sunburn_spritesheet_125
+  - first:
+      213: -3394036353817260358
+    second: 16_sunburn_spritesheet_126
+  - first:
+      213: -8226569014269958011
+    second: 16_sunburn_spritesheet_127
+  - first:
+      213: 4203994939171252971
+    second: 16_sunburn_spritesheet_128
+  - first:
+      213: 8838949666443808901
+    second: 16_sunburn_spritesheet_129
+  - first:
+      213: 2535814084784171729
+    second: 16_sunburn_spritesheet_130
+  - first:
+      213: 5042950799623544067
+    second: 16_sunburn_spritesheet_131
+  - first:
+      213: -4254025490862985957
+    second: 16_sunburn_spritesheet_132
+  - first:
+      213: 6959727858447570111
+    second: 16_sunburn_spritesheet_133
+  - first:
+      213: 3223636963454188432
+    second: 16_sunburn_spritesheet_134
+  - first:
+      213: -543374162788099352
+    second: 16_sunburn_spritesheet_135
+  - first:
+      213: 2808082524618381335
+    second: 16_sunburn_spritesheet_136
+  - first:
+      213: -7246734359037970940
+    second: 16_sunburn_spritesheet_137
+  - first:
+      213: -978726258069748623
+    second: 16_sunburn_spritesheet_138
+  - first:
+      213: -4573688665986104428
+    second: 16_sunburn_spritesheet_139
+  - first:
+      213: 833487253252807455
+    second: 16_sunburn_spritesheet_140
+  - first:
+      213: 5734864822587632315
+    second: 16_sunburn_spritesheet_141
+  - first:
+      213: 7413391883158104842
+    second: 16_sunburn_spritesheet_142
+  - first:
+      213: -3326394946997854412
+    second: 16_sunburn_spritesheet_143
+  - first:
+      213: 177781396341511500
+    second: 16_sunburn_spritesheet_144
+  - first:
+      213: -8467420076805440324
+    second: 16_sunburn_spritesheet_145
+  - first:
+      213: -107556351313167901
+    second: 16_sunburn_spritesheet_146
+  - first:
+      213: -3378420955594305023
+    second: 16_sunburn_spritesheet_147
+  - first:
+      213: -1407008248352706239
+    second: 16_sunburn_spritesheet_148
+  - first:
+      213: 3190779994974080685
+    second: 16_sunburn_spritesheet_149
+  - first:
+      213: -5552504522972745125
+    second: 16_sunburn_spritesheet_150
+  - first:
+      213: 1328010900319355380
+    second: 16_sunburn_spritesheet_151
+  - first:
+      213: -4199731764830366650
+    second: 16_sunburn_spritesheet_152
+  - first:
+      213: 960273682501954608
+    second: 16_sunburn_spritesheet_153
+  - first:
+      213: 2279974403281486909
+    second: 16_sunburn_spritesheet_154
+  - first:
+      213: 5806800712498168366
+    second: 16_sunburn_spritesheet_155
+  - first:
+      213: 4155538841199131968
+    second: 16_sunburn_spritesheet_156
+  - first:
+      213: 903882593790814409
+    second: 16_sunburn_spritesheet_157
+  - first:
+      213: -6916308861747058056
+    second: 16_sunburn_spritesheet_158
+  - first:
+      213: -8957023877534993797
+    second: 16_sunburn_spritesheet_159
+  - first:
+      213: -1666611962931560788
+    second: 16_sunburn_spritesheet_160
+  - first:
+      213: -6550960155027446947
+    second: 16_sunburn_spritesheet_161
+  - first:
+      213: 1806122842530445991
+    second: 16_sunburn_spritesheet_162
+  - first:
+      213: -6252971743279727646
+    second: 16_sunburn_spritesheet_163
+  - first:
+      213: 1824145771253844070
+    second: 16_sunburn_spritesheet_164
+  - first:
+      213: 8080699015214497787
+    second: 16_sunburn_spritesheet_165
+  - first:
+      213: 1737378170157505672
+    second: 16_sunburn_spritesheet_166
+  - first:
+      213: 994778252097826275
+    second: 16_sunburn_spritesheet_167
+  - first:
+      213: 8487771132752267714
+    second: 16_sunburn_spritesheet_168
+  - first:
+      213: -1407128203723205742
+    second: 16_sunburn_spritesheet_169
+  - first:
+      213: -7460676883972251783
+    second: cinder_kindle_0
+  - first:
+      213: 5982376892921400771
+    second: cinder_kindle_1
+  - first:
+      213: -1804895049539938534
+    second: cinder_kindle_2
+  - first:
+      213: 5151258349800623327
+    second: cinder_kindle_3
+  - first:
+      213: 7979060702516171544
+    second: cinder_kindle_4
+  - first:
+      213: -7782005106901064634
+    second: cinder_kindle_5
+  - first:
+      213: -6242065200052740168
+    second: cinder_kindle_6
+  - first:
+      213: -7203756084055751706
+    second: cinder_kindle_7
+  - first:
+      213: -5993800374993713578
+    second: cinder_kindle_8
+  - first:
+      213: -7188660509674287173
+    second: cinder_kindle_9
+  - first:
+      213: 2091160939282080735
+    second: cinder_kindle_1
+  - first:
+      213: 6241773239420397332
+    second: cinder_kindle_11
+  - first:
+      213: 3963187468613369387
+    second: cinder_kindle_12
+  - first:
+      213: 3870121511138052876
+    second: cinder_kindle_13
+  - first:
+      213: -2697492158625023654
+    second: cinder_kindle_14
+  - first:
+      213: -986224565485849717
+    second: cinder_kindle_15
+  - first:
+      213: 3097417201548074881
+    second: cinder_kindle_16
+  - first:
+      213: -3877456913253110362
+    second: cinder_kindle_17
+  - first:
+      213: 9222688353569048851
+    second: cinder_kindle_18
+  - first:
+      213: -4531968697511070921
+    second: cinder_kindle_19
+  - first:
+      213: -6768809367428274690
+    second: cinder_kindle_20
+  - first:
+      213: 8717004023856864395
+    second: cinder_kindle_21
+  - first:
+      213: 7763986505621219920
+    second: cinder_kindle_22
+  - first:
+      213: 664088588222498770
+    second: cinder_kindle_23
+  - first:
+      213: 5007859868032439726
+    second: cinder_kindle_24
+  - first:
+      213: -1440939224946774696
+    second: cinder_kindle_25
+  - first:
+      213: -6521073865648188971
+    second: cinder_kindle_26
+  - first:
+      213: 8763988332525521371
+    second: cinder_kindle_27
+  - first:
+      213: -7773106488212187111
+    second: cinder_kindle_28
+  - first:
+      213: -5965057737717655995
+    second: cinder_kindle_29
+  - first:
+      213: 4066689968494052752
+    second: cinder_kindle_30
+  - first:
+      213: -965756764916069330
+    second: cinder_kindle_31
+  - first:
+      213: -3438493835787920803
+    second: cinder_kindle_32
+  - first:
+      213: -3272776817431614427
+    second: cinder_kindle_33
+  - first:
+      213: -2642117085648974522
+    second: cinder_kindle_34
+  - first:
+      213: -4811022704758621608
+    second: cinder_kindle_35
+  - first:
+      213: -2747361914815469717
+    second: cinder_kindle_36
+  - first:
+      213: -3612470570430808944
+    second: cinder_kindle_37
+  - first:
+      213: 8890406159260333118
+    second: cinder_kindle_38
+  - first:
+      213: -5537159466459297414
+    second: cinder_kindle_39
+  - first:
+      213: 1110188615987427646
+    second: cinder_kindle_40
+  - first:
+      213: 120495628987768155
+    second: cinder_kindle_41
+  - first:
+      213: -1420078017009046673
+    second: cinder_kindle_42
+  - first:
+      213: -7265820864850745389
+    second: cinder_kindle_43
+  - first:
+      213: -5804467901329771795
+    second: cinder_kindle_44
+  - first:
+      213: 3969207916787830564
+    second: cinder_kindle_45
+  - first:
+      213: 171009296737832121
+    second: cinder_kindle_46
+  - first:
+      213: -4579107160894749830
+    second: cinder_kindle_47
+  - first:
+      213: -6644106976862006002
+    second: cinder_kindle_48
+  - first:
+      213: 7887811934726134983
+    second: cinder_kindle_49
+  - first:
+      213: 6849753302528551460
+    second: cinder_kindle_50
+  - first:
+      213: -4160990976165386066
+    second: cinder_kindle_51
+  - first:
+      213: -2448128874849705940
+    second: cinder_kindle_52
+  - first:
+      213: -2644203742065666446
+    second: cinder_kindle_53
+  - first:
+      213: -4693626750466188232
+    second: cinder_kindle_54
+  - first:
+      213: -165252553078655483
+    second: cinder_kindle_55
+  - first:
+      213: 3523900239995251364
+    second: cinder_kindle_56
+  - first:
+      213: 4538015841695222618
+    second: cinder_kindle_57
+  - first:
+      213: -5886226036580234478
+    second: cinder_kindle_58
+  - first:
+      213: 7791248431723818018
+    second: cinder_kindle_59
+  - first:
+      213: -2386615409862479830
+    second: cinder_kindle_60
+  - first:
+      213: 7790772829554407928
+    second: cinder_kindle_61
+  - first:
+      213: 1306970586213953195
+    second: cinder_kindle_62
+  - first:
+      213: 1865213652938918732
+    second: cinder_kindle_63
+  - first:
+      213: -6941336223320199535
+    second: cinder_kindle_64
+  - first:
+      213: -3638186289202235517
+    second: cinder_kindle_65
+  - first:
+      213: -4438235704554961677
+    second: cinder_kindle_66
+  - first:
+      213: -6008242529303612746
+    second: cinder_kindle_67
+  - first:
+      213: -3499573215812638960
+    second: cinder_kindle_68
+  - first:
+      213: -1072325253366463376
+    second: cinder_kindle_69
+  - first:
+      213: -784457594550187562
+    second: cinder_kindle_70
+  - first:
+      213: -8361367213753446514
+    second: cinder_kindle_71
+  - first:
+      213: -8508229059714002226
+    second: cinder_kindle_72
+  - first:
+      213: -3299869194716615946
+    second: cinder_kindle_73
+  - first:
+      213: -6901694736399858990
+    second: cinder_kindle_74
+  - first:
+      213: -8543560844828149071
+    second: cinder_kindle_75
+  - first:
+      213: 1178055988850649947
+    second: cinder_kindle_76
+  - first:
+      213: 6203496008887151319
+    second: cinder_kindle_77
+  - first:
+      213: 5133750476276542944
+    second: cinder_kindle_78
+  - first:
+      213: 342196365215677072
+    second: cinder_kindle_79
+  - first:
+      213: -97621934013803414
+    second: cinder_kindle_80
+  - first:
+      213: -2752230493996094869
+    second: cinder_kindle_81
+  - first:
+      213: 5282936949741454012
+    second: cinder_kindle_82
+  - first:
+      213: 8112971203908541791
+    second: cinder_kindle_83
+  - first:
+      213: -8306917710926687856
+    second: cinder_kindle_84
+  - first:
+      213: -4099519098383693871
+    second: cinder_kindle_85
+  - first:
+      213: -5666733188059197554
+    second: cinder_kindle_86
+  - first:
+      213: -1782116448895034071
+    second: cinder_kindle_87
+  - first:
+      213: -6734816407354472467
+    second: cinder_kindle_88
+  - first:
+      213: 5585773302953189925
+    second: cinder_kindle_89
+  - first:
+      213: 8971272725241884954
+    second: cinder_kindle_90
+  - first:
+      213: -843870324899964228
+    second: cinder_kindle_91
+  - first:
+      213: 4478689968154378421
+    second: cinder_kindle_92
+  - first:
+      213: 1916353680113981444
+    second: cinder_kindle_93
+  - first:
+      213: 8081941922753709874
+    second: cinder_kindle_94
+  - first:
+      213: 5179686430875207419
+    second: cinder_kindle_95
+  - first:
+      213: 6633404036975146857
+    second: cinder_kindle_96
+  - first:
+      213: 2590601559039305839
+    second: cinder_kindle_97
+  - first:
+      213: 6801647021027367091
+    second: cinder_kindle_98
+  - first:
+      213: 6201623216981257779
+    second: cinder_kindle_99
+  - first:
+      213: -1733641785529256728
+    second: cinder_kindle_100
+  - first:
+      213: -2999380712767671564
+    second: cinder_kindle_101
+  - first:
+      213: 5569144399241366538
+    second: cinder_kindle_102
+  - first:
+      213: -6143832960354354055
+    second: cinder_kindle_103
+  - first:
+      213: 394653081123109979
+    second: cinder_kindle_104
+  - first:
+      213: 3929131149782955272
+    second: cinder_kindle_105
+  - first:
+      213: 250299306588698504
+    second: cinder_kindle_106
+  - first:
+      213: -1280697986942683061
+    second: cinder_kindle_107
+  - first:
+      213: 5637582199592281631
+    second: cinder_kindle_108
+  - first:
+      213: 3807706684243209930
+    second: cinder_kindle_109
+  - first:
+      213: -7591418450945865025
+    second: cinder_kindle_110
+  - first:
+      213: -5491093364661701799
+    second: cinder_kindle_111
+  - first:
+      213: -5390402532219239915
+    second: cinder_kindle_112
+  - first:
+      213: -5969394846774346308
+    second: cinder_kindle_113
+  - first:
+      213: 1826111286680761526
+    second: cinder_kindle_114
+  - first:
+      213: -202223118287001108
+    second: cinder_kindle_115
+  - first:
+      213: -833965291858326525
+    second: cinder_kindle_116
+  - first:
+      213: 4127435299500745543
+    second: cinder_kindle_117
+  - first:
+      213: 5634306386211267609
+    second: cinder_kindle_118
+  - first:
+      213: -6994544792734007166
+    second: cinder_kindle_119
+  - first:
+      213: 6149484800293005723
+    second: cinder_kindle_120
+  - first:
+      213: 4375197624538298225
+    second: cinder_kindle_121
+  - first:
+      213: -6563344309858619527
+    second: cinder_kindle_122
+  - first:
+      213: 7127908123954738211
+    second: cinder_kindle_123
+  - first:
+      213: 8672539915591967376
+    second: cinder_kindle_124
+  - first:
+      213: 6161549038017722673
+    second: cinder_kindle_125
+  - first:
+      213: 2143815051335074451
+    second: cinder_kindle_126
+  - first:
+      213: 4192269619172424861
+    second: cinder_kindle_127
+  - first:
+      213: 7206128136841855092
+    second: cinder_kindle_128
+  - first:
+      213: -5281323703734098086
+    second: cinder_kindle_129
+  - first:
+      213: 8913623536803399856
+    second: cinder_kindle_130
+  - first:
+      213: -3270139422859391718
+    second: cinder_kindle_131
+  - first:
+      213: -4396604573481100136
+    second: cinder_kindle_132
+  - first:
+      213: 5889858150670507895
+    second: cinder_kindle_133
+  - first:
+      213: 8688769754943498114
+    second: cinder_kindle_134
+  - first:
+      213: -7281624888666981623
+    second: cinder_kindle_135
+  - first:
+      213: -6043308306477642702
+    second: cinder_kindle_136
+  - first:
+      213: -6001878951314188137
+    second: cinder_kindle_137
+  - first:
+      213: -7812390778206454372
+    second: cinder_kindle_138
+  - first:
+      213: -4445114859198772882
+    second: cinder_kindle_139
+  - first:
+      213: 4373286152191188581
+    second: cinder_kindle_140
+  - first:
+      213: 3504474856874547349
+    second: cinder_kindle_141
+  - first:
+      213: 6394577562072926201
+    second: cinder_kindle_142
+  - first:
+      213: -6672034189768161123
+    second: cinder_kindle_143
+  - first:
+      213: 735106371553316185
+    second: cinder_kindle_144
+  - first:
+      213: -960121257975960796
+    second: cinder_kindle_145
+  - first:
+      213: -2208314878303696022
+    second: cinder_kindle_146
+  - first:
+      213: 2289114506794247323
+    second: cinder_kindle_147
+  - first:
+      213: 8452816679319289701
+    second: cinder_kindle_148
+  - first:
+      213: -7684736981777587753
+    second: cinder_kindle_149
+  - first:
+      213: -6884223124290076860
+    second: cinder_kindle_150
+  - first:
+      213: -400860631809821536
+    second: cinder_kindle_151
+  - first:
+      213: 7622686093226847378
+    second: cinder_kindle_152
+  - first:
+      213: 4495630186166654788
+    second: cinder_kindle_153
+  - first:
+      213: -3036159561809835469
+    second: cinder_kindle_154
+  - first:
+      213: 812428159722416747
+    second: cinder_kindle_155
+  - first:
+      213: -1045337806742584661
+    second: cinder_kindle_156
+  - first:
+      213: 3663134404160548159
+    second: cinder_kindle_157
+  - first:
+      213: -597655115544699341
+    second: cinder_kindle_158
+  - first:
+      213: 5531321061561823895
+    second: cinder_kindle_159
+  - first:
+      213: 3927030606745976533
+    second: cinder_kindle_160
+  - first:
+      213: 8308458079002251813
+    second: cinder_kindle_161
+  - first:
+      213: -5975643829226592449
+    second: cinder_kindle_162
+  - first:
+      213: -29127515476864833
+    second: cinder_kindle_163
+  - first:
+      213: 2744272473344536717
+    second: cinder_kindle_164
+  - first:
+      213: -7815436198760961037
+    second: cinder_kindle_165
+  - first:
+      213: -8763349677384937369
+    second: cinder_kindle_166
+  - first:
+      213: 2290180557775879074
+    second: cinder_kindle_167
+  - first:
+      213: 5244923480785842343
+    second: cinder_kindle_168
+  - first:
+      213: 1277041332388337249
+    second: cinder_kindle_169
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cinder_kindle_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 727
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c394759e954dad49aab963c8975c7d7
+      internalID: -7460676883972251783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 723
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80a890242d6909459e8eab5f465bc3a
+      internalID: 5151258349800623327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 725
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e4d99ad12a79a4c952d20e7f336bf8
+      internalID: 7979060702516171544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 723
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d28667bd2cfbd43bb2ceea1bcf90b4
+      internalID: -7782005106901064634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 725
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1503e08abaa15cd45a16ddc38bede6db
+      internalID: -6242065200052740168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_7
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 723
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4599d744b431da142bab0c3124080228
+      internalID: -7203756084055751706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_8
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 723
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c5c9fee5d93b7449c2286dffe50dfa
+      internalID: -5993800374993713578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 726
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743cb50c55d0e5740a3b77a8a45c90ba
+      internalID: 5982376892921400771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 623
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f715ceaa1888146bcb666bb0a72261
+      internalID: 664088588222498770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 623
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ec82b18212dd84c81c107f5288ad63
+      internalID: -1440939224946774696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 623
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0ac19456c96e44f86689183a1d5b10
+      internalID: 8763988332525521371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_29
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28d9a2b29fc21f488c1012c234ec7a0
+      internalID: -5965057737717655995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_30
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 621
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fa29bd9758ea44f9d5a8a67526c136
+      internalID: 4066689968494052752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_32
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 620
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd35fce3ce06c747bf691b11a30aa6a
+      internalID: -3438493835787920803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_34
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9996a1e4fb231734ba16e1b2dec21bc1
+      internalID: -2642117085648974522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_36
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 625
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b86b5a6c58b29419810358b89c7686
+      internalID: -2747361914815469717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 524
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c2dd4527421344cb00ea5f4c45e2c1
+      internalID: -4160990976165386066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_52
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 523
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c5b23308c39ae4c87b6403a18e964e
+      internalID: -2448128874849705940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_53
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 524
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4225f81dec23d449eb45e027d036eb
+      internalID: -2644203742065666446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_54
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 525
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c2cbf1767a9cd4a9e9bfcacacd60f6
+      internalID: -4693626750466188232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 525
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebdb2db7a6c6bf44a955f5b9a93bc21
+      internalID: -165252553078655483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_57
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 524
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c523bbd76663afc4e8f944ccc5f035fc
+      internalID: 4538015841695222618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_58
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 523
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f009168f6b753045a5c9890155a7ab0
+      internalID: -5886226036580234478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_64
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 523
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8c3cbb544ecae4f82941d400d22bef
+      internalID: -6941336223320199535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 425
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32ba1d9dbea3664d9498e528277fd96
+      internalID: -8508229059714002226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_74
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 424
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c509702ac8af93245b12547bb27cbbc2
+      internalID: -6901694736399858990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_76
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 424
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aab8122b0856c4891d44ce428a6d2d
+      internalID: 1178055988850649947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_77
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 423
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5af0314d1096d419142dccdc35fae1
+      internalID: 6203496008887151319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_78
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 423
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791035d8f97e98a45ba8969b532e2a72
+      internalID: 5133750476276542944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_79
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 422
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01315a0c8a7582944be3eb25b1c3c24a
+      internalID: 342196365215677072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_80
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 421
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3909d800788699f498bd0652ffb35eab
+      internalID: -97621934013803414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_81
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 421
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e630333560d5fa142bd38b34e0037c18
+      internalID: -2752230493996094869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 321
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c29e915b8f44c342bd3f0c874cd04b8
+      internalID: 6201623216981257779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_100
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 321
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb7653fc466af640aa08cb5d3e9b1c5
+      internalID: -1733641785529256728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_101
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 324
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c93f8598e8a58842b4acd16df38ea45
+      internalID: -2999380712767671564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_102
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 324
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e168ceace7e77b44bb8e0530f85843d
+      internalID: 5569144399241366538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_103
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 322
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c21fe9ccf75fa64e8053c622be0ade6
+      internalID: -6143832960354354055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_104
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 325
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3a1bd0a79c1bd47973cfe9e3d579ee
+      internalID: 394653081123109979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_105
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 324
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26964b82dda67c7489b9c0e360b9e05c
+      internalID: 3929131149782955272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_106
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 325
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42efb2a98ee0b745a25e04f1f2241e2
+      internalID: 250299306588698504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 225
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6efe00d6395e294987a3907f7b24c6c
+      internalID: -6994544792734007166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_121
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 224
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737b52889f6b9204c930e7c7c654ade2
+      internalID: 4375197624538298225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_123
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e946fb43e8f6344997ebdf184f7e020
+      internalID: 7127908123954738211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_124
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 223
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148150907e54d0444badf93efaf04758
+      internalID: 8672539915591967376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_125
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 223
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6161d41322407249805c7c62a42d800
+      internalID: 6161549038017722673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_126
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 227
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333c85474cf145e49ab3ea011ec38c0e
+      internalID: 2143815051335074451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_127
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 227
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfa9ba783109c547b98eb7b808d7ba8
+      internalID: 4192269619172424861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_128
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 227
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8806b87f586c53e4f9025b36b3b3bc27
+      internalID: 7206128136841855092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_136
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 126
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47967326c7655774d820c9f0b45d4935
+      internalID: -6043308306477642702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_137
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85e527599b1eac44b25f5c4ce40c555
+      internalID: -6001878951314188137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_138
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 126
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4210cc6f7ce94894e945c8e51fe6f51d
+      internalID: -7812390778206454372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_139
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 125
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c30971f2de30549a7fe527b32a4610
+      internalID: -4445114859198772882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_140
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 127
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116b945cc39657d47994adb5175bea02
+      internalID: 4373286152191188581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 127
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ff7027e8347c2419456634b50fe5e8
+      internalID: 3504474856874547349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_142
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 127
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec798bcb5661e441b9b9249bf7ed4fa
+      internalID: 6394577562072926201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_144
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 126
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e7dfe292d884d4dbe735051bea921a
+      internalID: 735106371553316185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_152
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 26
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0854f171c9f7b4187597cbd0d587c7
+      internalID: 7622686093226847378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_153
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 26
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a14b888cf1faf84984178fe5bca5d36
+      internalID: 4495630186166654788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_155
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 25
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c73b229f60c04429d9c76d1885e377
+      internalID: 812428159722416747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_157
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 25
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d114a681c51994caca1056c43a3228
+      internalID: 3663134404160548159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinder_kindle_159
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 27
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a487d473ae21874e9572988ca393a5e
+      internalID: 5531321061561823895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1c1f005838a56534fbd4cf5a562ec4b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

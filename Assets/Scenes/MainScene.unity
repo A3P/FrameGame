@@ -265,6 +265,7 @@ MonoBehaviour:
   playerNumber: 1
   movementSpeed: 0.2
   animator: {fileID: 1198006690}
+  fireBall: {fileID: 457881412560390615, guid: a763e593829833e4d881b685675cca99, type: 3}
 --- !u!1001 &1336376545
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -431,5 +432,11 @@ PrefabInstance:
       propertyPath: m_DrawMode
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9030961869815516952, guid: b7823b05f218ea24db2a8deebe9f2d6b,
+        type: 3}
+      propertyPath: kindle
+      value: 
+      objectReference: {fileID: 457881412560390615, guid: a763e593829833e4d881b685675cca99,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7823b05f218ea24db2a8deebe9f2d6b, type: 3}
