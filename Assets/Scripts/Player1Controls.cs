@@ -25,7 +25,7 @@ public GameObject fireBall;
         movementVector.y = Input.GetAxis("Vertical"+playerNumber) * movementSpeed;
         Vector3 velocity = movementVector * movementSpeed;
         
-        // SetFaceDirection(movementVector.x);
+        SetFaceDirection(movementVector.x);
 
         SetIsMoving(velocity);
 

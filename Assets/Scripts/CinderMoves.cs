@@ -5,6 +5,8 @@ using UnityEngine;
 public class CinderMoves : MonoBehaviour
 {
     public GameObject kindle;
+    public int kindleCD;
+    private int kindleFrameCount;
 
     // Start is called before the first frame update
     void Start()
@@ -20,8 +22,12 @@ public class CinderMoves : MonoBehaviour
 
     public void castKindle(Vector3 casterPosition, float aimAngle)
     {
-        GameObject obj = Instantiate(kindle, casterPosition, Quaternion.identity) as GameObject;
-        obj.transform.Rotate(0,0, aimAngle - 90);
-        obj.GetComponent<CinderKindle>().SetDirection(obj.transform.right);
+        if(kindleFrameCount + kindleCD < Time.frameCount) 
+        {
+            GameObject obj = Instantiate(kindle, casterPosition, Quaternion.identity) as GameObject;
+            obj.transform.Rotate(0,0, aimAngle - 90);
+            obj.GetComponent<CinderKindle>().SetDirection(obj.transform.right);
+            kindleFrameCount = Time.frameCount;
+        }
     }
 }

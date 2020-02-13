@@ -114,3 +114,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   kindle: {fileID: 457881412560390615, guid: a763e593829833e4d881b685675cca99, type: 3}
+  kindleCD: 60
