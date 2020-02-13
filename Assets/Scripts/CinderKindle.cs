@@ -15,7 +15,6 @@ public class CinderKindle : MonoBehaviour
     void Start()
     {
         spawnTime = Time.frameCount;
-        Debug.Log(Time.frameCount);
     }
 
     public void SetOwner(GameObject player) 
@@ -23,7 +22,7 @@ public class CinderKindle : MonoBehaviour
         this.player = player;
     }
 
-    public void SetDirection(Vector3 direction) 
+    public void SetDirection(Vector3 direction)
     {
         this.direction = direction;
     }
@@ -36,5 +35,13 @@ public class CinderKindle : MonoBehaviour
          } else {
              transform.position+= direction * speed;
          }
+    }
+
+        void OnTriggerEnter2D(Collider2D col)
+    {
+        Debug.Log("The col: " + col);
+        if(col.gameObject != player) {
+            Debug.Log("BOOM");
+        }
     }
 }

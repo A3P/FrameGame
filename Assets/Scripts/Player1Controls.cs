@@ -9,7 +9,6 @@ public int playerNumber;
 public float movementSpeed;
 public Animator animator;
 SpriteRenderer spriteRendererCmp;
-public GameObject fireBall;
 
     // Start is called before the first frame update
     void Start()
@@ -35,7 +34,6 @@ public GameObject fireBall;
 
         if (Input.GetAxis("Fire"+playerNumber) != 0)
         {
-            Debug.Log("FIRE");
             GetComponent<CinderMoves>().castKindle(transform.position , aimAngle);
         }
     }
@@ -47,10 +45,10 @@ public GameObject fireBall;
             aimVector.x = Input.GetAxis("HorizontalTurn"+playerNumber);
             aimVector.y = Input.GetAxis("VerticalTurn"+playerNumber);
             aimVector.Normalize();
-            Debug.Log(aimVector);
+            // Debug.Log(aimVector);
             float aimAngle = (Mathf.Atan2(aimVector.x, aimVector.y) * 180 / Mathf.PI);
 
-            Debug.Log(aimAngle);
+            // Debug.Log(aimAngle);
             return aimAngle;
             // transform.eulerAngles = new Vector3 (0f, 0f, 90 - aimAngle);
 
@@ -74,4 +72,5 @@ public GameObject fireBall;
             spriteRendererCmp.flipX = false;
         }
     }
+
 }
