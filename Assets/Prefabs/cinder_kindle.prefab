@@ -117,7 +117,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   duration: 60
   speed: 0.1
-  power: 4
+  percent: 10
+  stunGrowth: 25
+  bkb: 0.2
+  kbg: 0.2
 --- !u!58 &551648713738838899
 CircleCollider2D:
   m_ObjectHideFlags: 0

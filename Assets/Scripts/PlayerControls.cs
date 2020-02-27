@@ -3,18 +3,22 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class Player1Controls : MonoBehaviour
+public class PlayerControls : MonoBehaviour
 {
 public int playerNumber;
 public float movementSpeed;
 public Animator animator;
 SpriteRenderer spriteRendererCmp;
+private int stunTime;
+private int stunLength;
+private Vector3 kbDirection;
+private float kb;
 
     // Start is called before the first frame update
     void Start()
     {
         spriteRendererCmp = GetComponent<SpriteRenderer>();
-    }
+        gameObject.GetComponent<CinderMoves>().playerNumber = this.playerNumber;    }
 
     // Update is called once per frame
     void Update()
@@ -22,18 +26,25 @@ SpriteRenderer spriteRendererCmp;
         Vector2 movementVector;
         movementVector.x = Input.GetAxis("Horizontal"+playerNumber) * movementSpeed;
         movementVector.y = Input.GetAxis("Vertical"+playerNumber) * movementSpeed;
+        Debug.Log("Player #" + playerNumber + " movementVector: " + movementVector);
         Vector3 velocity = movementVector * movementSpeed;
-        
+
         SetFaceDirection(movementVector.x);
 
         SetIsMoving(velocity);
 
-        transform.position += velocity;
+        if(Time.frameCount > (stunTime + stunLength)){
+            transform.position += velocity;
+        } else {
+            Vector3 kbVeloctiy = Vector3.Lerp(kbDirection*kb, Vector3.zero, (Time.frameCount - stunTime)/stunLength);
+            transform.position += kbVeloctiy;
+        }
 
         float aimAngle = getAimAngle();
 
-        if (Input.GetAxis("Fire"+playerNumber) != 0)
+        if (Input.GetButton("Fire"+playerNumber))
         {
+            Debug.Log("Fire Button is pressed for player: " + playerNumber);
             GetComponent<CinderMoves>().castKindle(transform.position , aimAngle);
         }
     }
@@ -73,4 +84,10 @@ SpriteRenderer spriteRendererCmp;
         }
     }
 
+    public void KnockBack(Vector3 kbDirection, float bkb, int stunGrowth) {
+        this.kbDirection = kbDirection;
+        this.kb = bkb;
+        this.stunTime = Time.frameCount;
+        this.stunLength  = stunGrowth;
+    }
 }

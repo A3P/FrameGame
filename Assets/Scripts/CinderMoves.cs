@@ -7,6 +7,7 @@ public class CinderMoves : MonoBehaviour
     public GameObject kindle;
     public int kindleCD;
     private int kindleFrameCount;
+    public int playerNumber {get; set;}
     
 
     // Start is called before the first frame update
@@ -25,10 +26,13 @@ public class CinderMoves : MonoBehaviour
     {
         if(kindleFrameCount + kindleCD < Time.frameCount) 
         {
+            Debug.Log("Called Kindle");
             GameObject obj = Instantiate(kindle, casterPosition, Quaternion.identity) as GameObject;
             obj.GetComponent<CinderKindle>().SetOwner(gameObject);
             obj.transform.Rotate(0,0, aimAngle - 90);
-            obj.GetComponent<CinderKindle>().SetDirection(obj.transform.right);
+            Vector3 direction = new Vector3();
+            direction = obj.transform.right;
+            obj.GetComponent<CinderKindle>().SetDirection(direction);
             kindleFrameCount = Time.frameCount;
         }
     }

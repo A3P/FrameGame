@@ -7,7 +7,10 @@ public class CinderKindle : MonoBehaviour
 
     public int duration;
     public float speed;
-    public float power;
+    public float percent;
+    public int stunGrowth;
+    public float bkb;
+    public float kbg;
     private Vector3 direction;
     private GameObject player;
     private int spawnTime;
@@ -42,6 +45,10 @@ public class CinderKindle : MonoBehaviour
         Debug.Log("The col: " + col);
         if(col.gameObject != player) {
             Debug.Log("BOOM");
+            Vector3 difference = col.transform.position - transform.position;
+            difference.Normalize();
+            col.gameObject.GetComponent<PlayerControls>().KnockBack(difference, bkb, stunGrowth);
+            Destroy(gameObject);
         }
     }
 }
