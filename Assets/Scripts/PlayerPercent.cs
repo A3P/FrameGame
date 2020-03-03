@@ -20,7 +20,7 @@ public class PlayerPercent : MonoBehaviour
     {
     }
 
-    public void addPercent(float damage)
+    public void AddPercent(float damage)
     {
         percent += damage;
         percentText.text = "Player " + playerNumber + "\n" + percent + "%";

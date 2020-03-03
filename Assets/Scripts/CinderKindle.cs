@@ -47,8 +47,10 @@ public class CinderKindle : MonoBehaviour
             Debug.Log("BOOM");
             Vector3 difference = col.transform.position - transform.position;
             difference.Normalize();
-            col.gameObject.GetComponent<PlayerControls>().KnockBack(difference, bkb, stunGrowth);
+            PlayerControls playerControls = col.gameObject.GetComponent<PlayerControls>();
+            playerControls.KnockBack(difference, bkb, stunGrowth);
             Destroy(gameObject);
+            playerControls.percent.GetComponent<PlayerPercent>().AddPercent(percent);
         }
     }
 }

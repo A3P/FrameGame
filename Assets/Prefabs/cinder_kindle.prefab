@@ -117,7 +117,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   duration: 60
   speed: 0.1
-  percent: 10
+  percent: 6.5
   stunGrowth: 25
   bkb: 0.2
   kbg: 0.2

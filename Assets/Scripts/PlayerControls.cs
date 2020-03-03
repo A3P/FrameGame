@@ -13,6 +13,7 @@ private int stunTime;
 private int stunLength;
 private Vector3 kbDirection;
 private float kb;
+public GameObject percent;
 
     // Start is called before the first frame update
     void Start()
