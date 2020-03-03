@@ -354,7 +354,7 @@ MonoBehaviour:
   playerNumber: 2
   movementSpeed: 0.2
   animator: {fileID: 783383322}
-  percent: {fileID: 2068906762}
+  percentText: {fileID: 2068906762}
 --- !u!1 &881310575
 GameObject:
   m_ObjectHideFlags: 0
@@ -448,7 +448,7 @@ MonoBehaviour:
   playerNumber: 1
   movementSpeed: 0.2
   animator: {fileID: 1198006690}
-  percent: {fileID: 43691745}
+  percentText: {fileID: 43691745}
 --- !u!1001 &1336376545
 PrefabInstance:
   m_ObjectHideFlags: 0

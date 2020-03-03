@@ -13,13 +13,16 @@ private int stunTime;
 private int stunLength;
 private Vector3 kbDirection;
 private float kb;
-public GameObject percent;
+public GameObject percentText;
+float percent {get; set;}
 
     // Start is called before the first frame update
     void Start()
     {
         spriteRendererCmp = GetComponent<SpriteRenderer>();
-        gameObject.GetComponent<CinderMoves>().playerNumber = this.playerNumber;    }
+        gameObject.GetComponent<CinderMoves>().playerNumber = this.playerNumber;    
+        percent = 0.0f;
+    }
 
     // Update is called once per frame
     void Update()
@@ -85,10 +88,15 @@ public GameObject percent;
         }
     }
 
-    public void KnockBack(Vector3 kbDirection, float bkb, int stunGrowth) {
+    public void KnockBack(Vector3 kbDirection, float bkb, float kbg, int stunGrowth) {
         this.kbDirection = kbDirection;
-        this.kb = bkb;
+        this.kb = bkb + (kbg * percent / 10);
         this.stunTime = Time.frameCount;
         this.stunLength  = stunGrowth;
+    }
+
+    public void addPercent(float percent) {
+        this.percent += percent;
+        percentText.GetComponent<PlayerPercent>().setPercent(this.percent);
     }
 }
