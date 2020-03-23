@@ -156,7 +156,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 200, y: 80}
-  m_SizeDelta: {x: 200, y: 60}
+  m_SizeDelta: {x: 200, y: 70}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &43691747
 MonoBehaviour:
@@ -327,6 +327,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player1: {fileID: 1198006688}
   player2: {fileID: 783383319}
+  maxViewportDistance: 0.75
+  minViewportDistance: 0.65
+  zoomDelta: 0.9
 --- !u!1 &783383319 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7648993832780331100, guid: b7823b05f218ea24db2a8deebe9f2d6b,
@@ -659,7 +662,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
   m_AnchoredPosition: {x: -200, y: 80}
-  m_SizeDelta: {x: 200, y: 60}
+  m_SizeDelta: {x: 200, y: 70}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &2068906764
 MonoBehaviour:
